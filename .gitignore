@@ -1,0 +1,33 @@
+# generated outputs
+*.sub2api.json
+*.cpa.zip
+*.converted.json
+
+# local account exports / sensitive files
+exports/
+accounts/
+real_accounts/
+tokens/
+private/
+secrets/
+
+# archives that may contain credentials
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+*.zipx
+*.cab
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
