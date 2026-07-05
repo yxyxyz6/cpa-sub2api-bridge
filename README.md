@@ -53,13 +53,13 @@
 推荐用这个：
 
 ```text
-RUN_ME_BRIDGE.cmd
+拖拽到我身上自动转换.cmd
 ```
 
 操作方法：
 
 1. 解压工具包
-2. 把你的 CPA 压缩包、sub2api JSON 或文件夹拖到 `RUN_ME_BRIDGE.cmd` 上
+2. 把你的 CPA 压缩包、sub2api JSON 或文件夹拖到 `拖拽到我身上自动转换.cmd` 上
 3. 等它自动转换
 4. 输出文件会生成在原文件旁边
 
@@ -160,13 +160,13 @@ With **7-Zip** or **WinRAR** installed:
 Recommended:
 
 ```text
-RUN_ME_BRIDGE.cmd
+拖拽到我身上自动转换.cmd
 ```
 
 Steps:
 
 1. Extract the tool package
-2. Drag your CPA archive, sub2api JSON, or folder onto `RUN_ME_BRIDGE.cmd`
+2. Drag your CPA archive, sub2api JSON, or folder onto `拖拽到我身上自动转换.cmd`
 3. Wait for conversion
 4. The output file will be created next to the input file
 
