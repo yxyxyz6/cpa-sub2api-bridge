@@ -214,3 +214,8 @@ Recommended:
 - Only process accounts you own or are authorized to manage
 - Add a `.gitignore`
 - Upload source code only, never real account exports
+- 
+## 鸣谢 / Acknowledgements
+
+感谢 [LINUX DO](https://linux.do) 社区提供交流与分享环境。  
+本项目支持并认可 LINUX DO 社区。
